@@ -6,7 +6,9 @@
   "scripts": {
     "dev": "next",
     "build": "next build",
-    "start": "next start"
+    "start": "next start",
+    "start-heroku": "next start -p $PORT",
+    "heroku-postbuild": "npm run build"
   },
   "keywords": [],
   "author": "",
