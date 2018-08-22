@@ -1,8 +1,6 @@
-Whatz-crypto
-============
+Whatz-bitcoin-price
+===================
 
-Answer https://whatz-crypto.now.sh/
-
-More answers at https://whatz.cash/
+Answer https://whatz-bitcoin-price.now.sh/
 
 Built with Next.js, chart.js, axioms, now.sh

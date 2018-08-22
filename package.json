@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "dev": "node server.js",
+    "dev": "next",
     "build": "next build",
     "start": "next start",
     "start-heroku": "next start -p $PORT",
@@ -17,7 +17,6 @@
     "axios": "^0.18.0",
     "chart.js": "^2.7.2",
     "next": "^6.1.1",
-    "path-match": "^1.2.4",
     "react": "^16.4.2",
     "react-chartjs-2": "^2.7.4",
     "react-dom": "^16.4.2"
